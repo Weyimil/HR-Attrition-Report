@@ -65,6 +65,8 @@ By addressing these challenges and objectives, we aim to equip the HR department
 
 The dashboard transitions from a dark background to a light one in real-time for improved eye comfort.
 
+THE ENTIRE PROJECT WAS COMPLETED IN MICROSOFT EXCEL
+
 ![](CLEANED_HR_A_R.png)
 
 ![](DASHBOARD_HR_DARK_1.png)
