@@ -52,7 +52,7 @@ Presentation of findings and recommendations to stakeholders
 By addressing these challenges and objectives, we aim to equip the HR department with actionable insights and tools to effectively manage employee attrition and foster a more stable and engaged workforce.
 
 
-## CLEANING PROCESS
+## CLEANING PROCESS UPDATE COMING SOON
 
 ## STAY TUNED
 
@@ -61,8 +61,18 @@ By addressing these challenges and objectives, we aim to equip the HR department
 
 # UPDATE COMING SOON
 
-![]()
-![]()
-![]()
-![]()
+
+# DASHBOARD REPORT
+
+## NOTE:
+
+The dashboard transitions from a dark background to a light one in real-time for improved eye comfort.
+
+![](CLEANED_HR_A_R.png)
+
+![](DASHBOARD_HR_DARK.png)
+
+![](DASHBOARD_HR_LIGHT.png)
+
+![](HR_KPIs.png)
 
