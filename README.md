@@ -54,12 +54,9 @@ By addressing these challenges and objectives, we aim to equip the HR department
 
 ## CLEANING PROCESS UPDATE COMING SOON
 
-## STAY TUNED
+## EXECUTIVE REPORT AND RECOMMENDATION COMING SOON
 
 ## ONGOING PROJECT
-
-
-# UPDATE COMING SOON
 
 
 # DASHBOARD REPORT
@@ -70,7 +67,11 @@ The dashboard transitions from a dark background to a light one in real-time for
 
 ![](CLEANED_HR_A_R.png)
 
-![](DASHBOARD_HR_DARK.png)
+![](DASHBOARD_HR_DARK_1.png)
 
-![](DASHBOARD_HR_LIGHT.png)
+![](DASHBOARD_HR_LIGHT_2.png)
 
+
+## ONGOING PROJECT
+
+# UPDATE COMING SOON
