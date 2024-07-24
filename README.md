@@ -74,5 +74,3 @@ The dashboard transitions from a dark background to a light one in real-time for
 
 ![](DASHBOARD_HR_LIGHT.png)
 
-![](HR_KPIs.png)
-
